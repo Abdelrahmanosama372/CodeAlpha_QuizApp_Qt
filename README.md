@@ -1,2 +1,4 @@
 # CodeAlpha_QuizApp_Qt
-[![app video](https://github.com/Abdelrahmanosama372/CodeAlpha_QuizApp_Qt/blob/main/quizAppVideo.mp4)]
+https://github.com/user-attachments/assets/f241272b-2747-4c7c-abf2-9762a644d0c0
+
+
